@@ -1,9 +1,8 @@
-numpy
+numpy==1.21.6
 scipy
 matplotlib
-python-libsbml
 lxml
 mpmath
-pyreadline
 jedi==0.17.2
 ipython
+setuptools<65
